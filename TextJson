@@ -1,1 +1,14 @@
+{
+"steal_random_tech_bonus":
+		{
+			"category": "air_equipment",
+			"folder": "naval_folder",
+			"ahead_reduction": "???",
+			"bonus": "???",
+			"base_bonus": "",
+			"instant": "",
+			"dynamic": "",
+			"name": ""
+		}
+}
 
